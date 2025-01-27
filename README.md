@@ -9,8 +9,11 @@ This is a simple Android application developed using Kotlin and Jetpack Compose 
 ## **Requirements**
 
 **Android Studio (with the necessary SDKs)**
+
 **Android NDK:** To use native methods in Kotlin.
+
 **Kotlin:** The primary language for Android development.
+
 **Jetpack Compose:** For building UI with Kotlin.
 
 ## **Setup**
@@ -34,5 +37,10 @@ Follow these steps to set up the project:
 5. **Run the app:** 
 - Select an emulator or connect a physical device and run the app.
 
+## **Screenshots**
 
-
+<div style="display: flex; justify-content: space-between;"> 
+  <img src="https://github.com/user-attachments/assets/10671037-e100-47f4-9882-766f020fd1de" alt="Screenshot 2" width="30%" />
+  <img src="https://github.com/user-attachments/assets/376d8bdd-7e11-4c90-90bd-a35cdd225a6a" alt="Screenshot 1" width="30%" />
+  <img src="https://github.com/user-attachments/assets/9fe3219c-df89-43b4-9a52-dbc1baf22fe5" alt="Screenshot 3" width="30%" />
+</div> 
