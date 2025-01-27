@@ -1,0 +1,3 @@
+/Users/multiqos-flutter1/Documents/Projects/FLUTTERPROJECT/NDKDemo 2/app/src/main/cpp/CMakeFiles/ndkdemo.dir
+/Users/multiqos-flutter1/Documents/Projects/FLUTTERPROJECT/NDKDemo 2/app/src/main/cpp/CMakeFiles/edit_cache.dir
+/Users/multiqos-flutter1/Documents/Projects/FLUTTERPROJECT/NDKDemo 2/app/src/main/cpp/CMakeFiles/rebuild_cache.dir
